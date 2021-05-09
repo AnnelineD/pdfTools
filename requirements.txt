@@ -1,0 +1,4 @@
+numpy
+PyPDF2
+pdf2image
+tqdm
