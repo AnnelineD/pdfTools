@@ -20,6 +20,11 @@ To use the code, you need the following libraries
 - pdf2image
 - tqdm
 
+#### Running on Mac OS
+
+To run on Mac the pdf2image dependency also requires you to install poppler for Mac. [You can do so by using brew](http://macappstore.org/poppler/):
+    brew install poppler
+
 ### Run
 
 ```
